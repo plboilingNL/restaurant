@@ -13,6 +13,10 @@ zip_code: 90489
 country: Deutschland
 phone: 0911 / 47001898
 phone2: 0911 / 47001899
+opening_days: Montag bis Sonntag 
+opening_hours: 11.30 - 14.30 Uhr 
+opening_hours_2: und 17.00 - 22.00 
+closed_days: Dienstag ist Ruhetag (außer Feiertag)
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
