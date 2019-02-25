@@ -12,6 +12,7 @@ state: Bayern
 zip_code: 90489
 country: Deutschland
 phone: 0911 / 47001898
+phone2: 0911 / 47001899
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
