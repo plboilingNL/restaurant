@@ -1,9 +1,9 @@
 # site settings
-title: China-Thai Restaurant 
-subtitle: DO
+title: Restaurant DO
+subtitle: Chinesische, Thailändische und Vietnamesische Küche
 #email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+description: WERBUNG
+baseurl: "/restaurant" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: Mathildenstraße 29
@@ -19,7 +19,7 @@ tiles-count: 6
 
 # social settings
 500px_url:
-facebook_url:
+facebook_url: https://www.facebook.com/restaurantdo
 github_url:
 gitlab_url: https://gitlab.com/u/andrewbanchich
 googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
