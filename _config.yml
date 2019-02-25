@@ -20,7 +20,7 @@ tiles-count: 6
 # social settings
 facebook_url: https://www.facebook.com/restaurantdo
 googleplus_url: https://www.google.com/maps/place/China-Thai+Restaurant+Do/@49.46181,11.0977013,17z/data=!3m1!4b1!4m5!3m4!1s0x479f579463125539:0x3752aade544fead2!8m2!3d49.46181!4d11.09989
-instagram_url: https://instagram.com
+instagram_url: #https://instagram.com
 tripadvisor_url: https://www.tripadvisor.de/Restaurant_Review-g187310-d7909779-Reviews-China_Thai_Viet_Restaurant_DO-Nuremberg_Middle_Franconia_Franconia_Bavaria.html
 
 
