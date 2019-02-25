@@ -1,8 +1,7 @@
 # site settings
 title: Restaurant DO
-subtitle: Chinesische, Thailändische und Vietnamesische Küche
-#email: youremailaddress@gmail.com
-description: WERBUNG
+subtitle: 
+description: Chinesische, Thailändische und Vietnamesische Küche
 baseurl: "/restaurant" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
