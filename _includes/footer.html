@@ -40,14 +40,14 @@
 	<footer id="footer">
 		<div class="inner">
 			<ul class="icons">
-				{% if site.tripadvisor_url %}
-				<li><a href="{{ site.tripadvisor_url }}" class="icon alt fa-tripadvisor" target="_blank"><span class="label">Tripadvisor</span></a></li>
-				{% endif %}
 				{% if site.googleplus_url %}
-				<li><a href="{{ site.googleplus_url }}" class="icon alt fa-google-plus" target="_blank"><span class="label">Google+</span></a></li>
+				<li><a href="{{ site.googleplus_url }}" class="icon alt fa-google" target="_blank"><span class="label">Google+</span></a></li>
 				{% endif %}
 				{% if site.facebook_url %}
 				<li><a href="{{ site.facebook_url }}" class="icon alt fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
+				{% endif %}
+				{% if site.tripadvisor_url %}
+				<li><a href="{{ site.tripadvisor_url }}" class="icon alt fa-tripadvisor" target="_blank"><span class="label">Tripadvisor</span></a></li>
 				{% endif %}
 				{% if site.instagram_url %}
 				<li><a href="{{ site.instagram_url }}" class="icon alt fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
