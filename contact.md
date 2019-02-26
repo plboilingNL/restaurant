@@ -15,7 +15,6 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<h2 id="content">Info</h2>
 <div class="row">
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
