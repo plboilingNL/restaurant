@@ -5,17 +5,6 @@ description: Chinesische, Thailändische und Vietnamesische Küche
 baseurl: "/restaurant" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: Mathildenstraße 29
-city: Nürnberg
-state: Bayern
-zip_code: 90489
-country: Deutschland
-phone: 0911 / 47001898
-phone2: 0911 / 47001899
-opening_days: Montag bis Sonntag 
-opening_hours: 11.30 - 14.30 Uhr 
-opening_hours_2: und 17.00 - 22.00 
-closed_days: Dienstag ist Ruhetag (außer Feiertag)
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -23,10 +12,9 @@ tiles-count: 6
 
 # social settings
 facebook_url: https://www.facebook.com/restaurantdo
-googleplus_url: https://www.google.com/maps/place/China-Thai+Restaurant+Do/@49.46181,11.0977013,17z/data=!3m1!4b1!4m5!3m4!1s0x479f579463125539:0x3752aade544fead2!8m2!3d49.46181!4d11.09989
+googleplus_url: https://goo.gl/maps/zUkFzoKo2fp
 instagram_url: #https://instagram.com
 tripadvisor_url: https://www.tripadvisor.de/Restaurant_Review-g187310-d7909779-Reviews-China_Thai_Viet_Restaurant_DO-Nuremberg_Middle_Franconia_Franconia_Bavaria.html
-
 
 # build settings
 markdown: kramdown
