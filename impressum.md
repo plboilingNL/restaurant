@@ -2,6 +2,7 @@
 layout: page
 title: Impressum
 nav-menu: true
+show_tile: false
 ---
 
 <!-- Main -->
