@@ -18,15 +18,15 @@ tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
-500px_url:
-facebook_url:
-github_url:
+500px_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+facebook_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+github_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
 gitlab_url: https://gitlab.com/u/andrewbanchich
 googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
 instagram_url: https://instagram.com
 linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-pinterest_url:
-slack_url:
+pinterest_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+slack_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
 twitter_url: https://twitter.com/andrewbanchich
 
 # build settings
